@@ -1,0 +1,40 @@
+# Core Libraries
+streamlit
+python-dotenv
+# flask
+# pathlib
+
+# AI & LLM Integration
+google-generativeai
+groq
+langchain
+langchain-google-genai
+langchain-groq
+langchain-community
+langchain-openai
+
+# PDF & Document Processing
+PyPDF2
+pypdf
+PyMuPDF
+pdf2image
+python-docx
+reportlab
+Pillow
+fpdf2
+
+# Vector Databases & Search
+faiss-cpu
+# chromadb  # Uncomment if using ChromaDB
+
+# Audio & Speech Processing
+streamlit-mic-recorder
+youtube_transcript_api
+
+# Graphs & Visualization
+networkx
+matplotlib
+
+# Text Comparison & Matching
+# diff-match-patch-python
+# python-magic-bin
